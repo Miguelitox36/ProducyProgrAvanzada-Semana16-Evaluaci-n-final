@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Microondas" size="550.000000 550.000000" />
+    <ImageTarget name="Caramandungas" size="550.000000 550.000000" />
+    <ImageTarget name="LecheG" size="500.000000 500.000000" />
+    <ImageTarget name="Oreo" size="550.000000 550.000000" />
+  </Tracking>
+</QCARConfig>
